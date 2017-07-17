@@ -1,8 +1,8 @@
 Name     : clear-containers-agent
-Version  : cd33db29399519b6a13b5d332785bbbea23c7187
+Version  : 33c08aa44156bde110a10ac321778ad8cba67215
 Release  : 2
-URL      : https://github.com/clearcontainers/agent/archive/master/cd33db29399519b6a13b5d332785bbbea23c7187.tar.gz
-Source0  : https://github.com/clearcontainers/agent/archive/master/cd33db29399519b6a13b5d332785bbbea23c7187.tar.gz
+URL      : https://github.com/clearcontainers/agent/archive/master/33c08aa44156bde110a10ac321778ad8cba67215.tar.gz
+Source0  : https://github.com/clearcontainers/agent/archive/master/33c08aa44156bde110a10ac321778ad8cba67215.tar.gz
 Summary  : Clear Containers Agent
 Group    : Development/Tools
 License  : Apache-2.0 BSD-2-Clause BSD-3-Clause MIT
