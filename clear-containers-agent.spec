@@ -1,8 +1,8 @@
 Name     : clear-containers-agent
-Version  : 0.1.0
+Version  : 84761a194a72018c67f1fa8a6a1267b8ea120f82
 Release  : 11
-URL      : https://github.com/clearcontainers/agent/archive/0.1.0.tar.gz
-Source0  : https://github.com/clearcontainers/agent/archive/0.1.0.tar.gz
+URL      : https://github.com/clearcontainers/agent/archive/master/84761a194a72018c67f1fa8a6a1267b8ea120f82.tar.gz
+Source0  : https://github.com/clearcontainers/agent/archive/master/84761a194a72018c67f1fa8a6a1267b8ea120f82.tar.gz
 Summary  : Clear Containers Agent
 Group    : Development/Tools
 License  : Apache-2.0 BSD-2-Clause BSD-3-Clause MIT
@@ -13,7 +13,7 @@ BuildRequires : pkgconfig(systemd)
 Clear Containers Agent.
 
 %prep
-%setup -q -n agent-0.1.0
+%setup -q -n agent-master
 
 %build
 export http_proxy=http://127.0.0.1:9/
