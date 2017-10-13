@@ -1,5 +1,5 @@
 PKG_NAME := clear-containers-agent
-URL := https://github.com/clearcontainers/agent/archive/master/84761a194a72018c67f1fa8a6a1267b8ea120f82.gz
+URL := https://github.com/clearcontainers/agent/archive/master/2c127987830773e8d7cf6c8c5571b8ebd5e28171.gz
 
 
 include ../common/Makefile.common
