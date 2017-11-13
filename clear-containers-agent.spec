@@ -1,6 +1,6 @@
 Name     : clear-containers-agent
 Version  : 243e2aefa4f9ff5a1bd32967a213e8533dab54df
-Release  : 14
+Release  : 15
 URL      : https://github.com/clearcontainers/agent/archive/master/243e2aefa4f9ff5a1bd32967a213e8533dab54df.tar.gz
 Source0  : https://github.com/clearcontainers/agent/archive/master/243e2aefa4f9ff5a1bd32967a213e8533dab54df.tar.gz
 Summary  : Clear Containers Agent
